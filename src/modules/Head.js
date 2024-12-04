@@ -20,7 +20,7 @@ export function Head() {
               <div class="flex-grow-1">
                 <h4>Analogue Clock</h4>
                 
-                <p class="pb-0 mt-0 text-start"> <a href="https://github.com/Vinod-brs/react-clock" target="_blank" > <img src="assets/img/noun-link.png" class="link" alt="" /> Git Repository</a></p>
+                <p class="pb-0 mt-0 text-start"> <a href="https://github.com/Vinod-brs/react-clock-app" target="_blank" > <img src="assets/img/noun-link.png" class="link" alt="" /> Git Repository</a></p>
               </div>
             </div>
           </div>
